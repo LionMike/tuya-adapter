@@ -20,9 +20,11 @@ If you happen to own a device that is not on this list, feel free to open an iss
 ## Plugs
 For plugs with n>1 sockets, use config `{"sockets":n}`
 - <a href='https://www.amazon.de/dp/B07CWQGP9C'>TECKIN SP22</a>
-
+Oukitel Dual Smart Plug
 ## Plugs with night light
 - <a href='https://aracky.com/products/wifi-smart-plug-in-night-light-led-jackyled-wi-fi-smart-alexa-plug-double-outlet-extender-adjustable-brightest-or-dim-light-for-hallways-kids-dogs-work-with-echo-google-home-assistant-and-ifttt-2-pack'>JACKYLED plug with 2 sockets and night light</a> (config: `{"dps":{"brightness":103},"sockets":2,"minbrightness":1,"maxbrightness":255}`)
+
+
 
 ## Switches
 For n-gang switches (n>1), use config `{"gangs":n}`
